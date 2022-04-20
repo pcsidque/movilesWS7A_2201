@@ -3,4 +3,5 @@
     <string name="question">¿Es Lima la capital de Chile?</string>
     <string name="no">no</string>
     <string name="si">si</string>
+    <string name="sgte">siguiente preg.</string>
 </resources>

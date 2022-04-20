@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Sem04_20220414</string>
+    <string name="question">¿Es Lima capital de Chile?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="sgte">sgte ?</string>
+</resources>
