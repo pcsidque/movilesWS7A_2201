@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App_Sem05-02_Agenda_20220421</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="telf">Ingrese Telf.</string>
 </resources>
